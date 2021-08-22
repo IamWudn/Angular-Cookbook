@@ -131,6 +131,7 @@
   },
   "defaultProject": "cc-inputs-outputs",
   "cli": {
-    "analytics": "e02a08a3-b5d1-4a67-9bd8-9f6fe8cd85bf"
+    "analytics": "e02a08a3-b5d1-4a67-9bd8-9f6fe8cd85bf",
+    "defaultCollection": "@angular-eslint/schematics"
   }
 }
